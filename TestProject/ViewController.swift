@@ -22,5 +22,11 @@ class ViewController: UIViewController {
     }
 
 
+    func newFeature() {
+        
+        print("amazing feature")
+        
+    }
+    
 }
 
