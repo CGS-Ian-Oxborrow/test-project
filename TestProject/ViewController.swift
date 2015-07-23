@@ -24,7 +24,7 @@ class ViewController: UIViewController {
 
     func newFeature() {
         
-        print("amazing feature")
+        print("average feature")
         
     }
     
