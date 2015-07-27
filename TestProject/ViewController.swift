@@ -23,7 +23,7 @@ class ViewController: UIViewController {
 
 
     func newFeature() {
-        
+        //This prints message to a console
         print("average feature")
         
     }
