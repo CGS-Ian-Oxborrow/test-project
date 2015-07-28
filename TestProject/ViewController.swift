@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         print("Hello World!")
+        //calleing new feature
+        newFeature()
     }
 
     override func didReceiveMemoryWarning() {
